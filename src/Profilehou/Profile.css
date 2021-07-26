@@ -1,0 +1,7 @@
+.image{
+    border: 10px solid transparent;
+    display: flex;
+    padding: 20px;
+    margin: 150px;
+    border-radius: 20px;
+      }

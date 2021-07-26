@@ -1,0 +1,13 @@
+.Hader{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f9f8f9;
+    align-items: center;
+}
+.hader-logo{
+    color: red;
+}
+.hader-icon{
+    padding: 20px;
+
+}
